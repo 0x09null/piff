@@ -1,8 +1,9 @@
 #!/usr/bin/perl
+
 # v0.0.1
 # ------------------------------------
-#
-#
+# developed by perl scripting lang
+# by this tool you can do more thing's
 #
 #
 # ------------------------------------

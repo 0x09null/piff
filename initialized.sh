@@ -2,13 +2,25 @@
 # assing 'piff' chaine of string to a var
 #
 # manual - ''
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
-NAME='piff'
-ARCHI='x86-64'
+x=5
 
-echo $NAME
-echo $ARCHI
-
+while [ $x -le 20 ];
+do	
+	echo $x
+	
+	# (( x++ ))
+done
 
 
 

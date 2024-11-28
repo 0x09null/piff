@@ -1,8 +1,13 @@
 #!/bin/bash 
+# assing 'piff' chaine of string to a var
+#
+# manual - ''
 
-var='.c'
+NAME='piff'
+ARCHI='x86-64'
 
-echo " ----- "
+echo $NAME
+
 
 
 

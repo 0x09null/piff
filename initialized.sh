@@ -7,6 +7,7 @@ NAME='piff'
 ARCHI='x86-64'
 
 echo $NAME
+echo $ARCHI
 
 
 

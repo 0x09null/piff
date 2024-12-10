@@ -1,4 +1,4 @@
-#!/bin/bash  # header 
+# !/bin/bash  # header 
 # assing 'piff'             ;
 #
 # ---------------------------

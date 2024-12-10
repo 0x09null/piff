@@ -1,5 +1,5 @@
 #!/bin/bash  # header 
-# assing 'piff' chaine of string to a var ;
+# assing 'piff' ;
 
 # ------ -
 #
